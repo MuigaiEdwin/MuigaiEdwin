@@ -68,7 +68,9 @@ building:
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
+
+*Consistency is key in cloud engineering. Here's my journey:*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="GitHub Stats" height="170"/>
