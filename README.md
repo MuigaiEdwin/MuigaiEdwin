@@ -71,7 +71,7 @@ building:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuigaiEdwin&theme=vue-dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=MuigaiEdwin&theme=vue-dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" height="170"/>
 </p>
 
 ---
