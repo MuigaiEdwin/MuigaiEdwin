@@ -69,9 +69,19 @@ building:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="GitHub Stats" height="170"/>
   <img src="https://streak-stats.demolab.com?user=MuigaiEdwin&theme=vue-dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuigaiEdwin&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuigaiEdwin&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FF9900&line=FF9900&point=FFFFFF" alt="Activity Graph" />
 </p>
 
 ---
