@@ -67,7 +67,6 @@ building:
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
