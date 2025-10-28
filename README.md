@@ -63,6 +63,12 @@ building:
 
 ---
 
+## 📘 AWS Roadmap
+
+You can check out the **AWS Developer Roadmap** below:
+
+- 🔗 [View Online](https://roadmap.sh/aws)
+- ⬇️ [Download PDF](https://roadmap.sh/pdfs/roadmaps/aws.pdf?download=true)
 
 
 ---
