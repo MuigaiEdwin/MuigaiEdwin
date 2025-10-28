@@ -12,12 +12,39 @@
 
 ## 🚀 About Me
 
-**AWS re/Start Student** transitioning into **Cloud Engineering** | Passionate about building scalable, secure, and cost-optimized solutions in the cloud | Based in Murang'a, Kenya 🇰🇪
+<table>
+<tr>
+<td width="50%">
 
-- 🔭 Currently learning **AWS Solutions Architecture, IaC & CI/CD Pipelines**
-- 🌱 Building **Serverless applications & Cloud-native solutions**
-- 🎯 Goal: **AWS Certified Solutions Architect**
-- 💡 Motto: *"If it's not automated, it's not optimized"*
+### 👨‍💻 Who I Am
+**Cloud Engineering Student** | **AWS re/Start Scholar** | **Future Solutions Architect**
+
+📍 Based in Murang'a, Kenya 🇰🇪  
+☁️ Transforming on-premise dreams into cloud reality  
+⚡ *"Automation isn't optional—it's essential"*
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+```yaml
+learning:
+  - AWS Solutions Architecture
+  - Infrastructure as Code (Terraform)
+  - CI/CD Pipeline Automation
+  
+building:
+  - Serverless Applications
+  - Cloud-Native Solutions
+  - Cost-Optimized Infrastructure
+```
+
+</td>
+</tr>
+</table>
+
+### 🏆 2025 Mission
+🎖️ AWS Certified Cloud Practitioner → 🎖️ Solutions Architect Associate → 🎖️ DevOps Engineer Professional
 
 ---
 
@@ -37,6 +64,8 @@
 ---
 
 
+
+---
 
 ## 📊 GitHub Stats
 
