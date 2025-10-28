@@ -7,7 +7,9 @@
   ### 🌩️ *"Migrating dreams to the cloud, one instance at a time"* 
   
 </div>
+
 ---
+
 ## 🚀 About Me
 
 **AWS re/Start Student** transitioning into **Cloud Engineering** | Passionate about building scalable, secure, and cost-optimized solutions in the cloud | Based in Murang'a, Kenya 🇰🇪
@@ -18,6 +20,7 @@
 - 💡 Motto: *"If it's not automated, it's not optimized"*
 
 ---
+
 ## 🛠️ Technologies & Tools
 
 ![AWS](https://skillicons.dev/icons?i=aws)
@@ -32,13 +35,18 @@
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
+
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuigaiEdwin&theme=vue-dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="GitHub Streak" height="170"/>
 </p>
+
 ---
+
 ## 💭 Cloud Wisdom
 
 <div align="center">
@@ -46,7 +54,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
+
 ---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -56,7 +66,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/MuigaiEd)
 
 </div>
+
 ---
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Learning+%7C%7C+Building+%7C%7C+Deploying+%7C%7C+Optimizing;Turning+Coffee+Into+Cloud+Architecture+%E2%98%95%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
@@ -64,7 +76,9 @@
 <img src="https://komarev.com/ghpvc/?username=MuigaiEdwin&style=for-the-badge&color=FF9900&label=VISITORS" alt="Profile Views" />
 
 </div>
+
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
 </div>
