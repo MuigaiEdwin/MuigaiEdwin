@@ -28,12 +28,16 @@ philosophy: "If it's not automated, it's not done right"
 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Python](https://skillicons.dev/icons?i=py)
+![Django](https://skillicons.dev/icons?i=django)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Css](https://skillicons.dev/icons?i=css)
+![Javascript](https://skillicons.dev/icons?i=javascript)
+
 
 ---
 
