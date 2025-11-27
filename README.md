@@ -41,7 +41,7 @@ philosophy: "If it's not automated, it's not done right"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="Stats" height="165"/>
-  <p align="center">
+  <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuigaiEdwin&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
