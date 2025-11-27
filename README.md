@@ -37,8 +37,8 @@ philosophy: "If it's not automated, it's not done right"
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Css](https://skillicons.dev/icons?i=css)
 ![Javascript](https://skillicons.dev/icons?i=javascript)
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12"/>
+ ![HTML](https://skillicons.dev/icons?i=html)
+ 
 
 
 ---
