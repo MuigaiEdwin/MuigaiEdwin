@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF9900&vCenter=true&width=600&lines=AWS+re%2FStart+Scholar+%F0%9F%8E%93;Cloud+Architecture+Enthusiast+%E2%98%81%EF%B8%8F;Building+In+The+Cloud+%F0%9F%9A%80;Automating+Everything+%E2%9A%A1)](https://git.io/typing-svg)
 
-<div align="center">
-  
+<div auio;ijkljkllign="center">
+ <!-- j--> 
 *Migrating dreams to the cloud, one script at a time* ☁️
   
 📍 Murang'a, Kenya 🇰🇪 | 🎯 AWS Solutions Architect in the making
@@ -41,7 +41,8 @@ philosophy: "If it's not automated, it's not done right"
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" alt="Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=MuigaiEdwin&theme=vue-dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" alt="Streak" height="165"/>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuigaiEdwin&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
