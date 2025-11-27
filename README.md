@@ -39,19 +39,22 @@ philosophy: "If it's not automated, it's not done right"
 
 ## 📊 GitHub Wrapped
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" 
-    alt="Stats" 
-    height="165"
+    alt="GitHub Stats" 
+    height="180"
   />
-  
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuigaiEdwin&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" 
     alt="Top Languages" 
-    height="165"
+    height="180"
   />
+
 </div>
+
 
 
 ---
