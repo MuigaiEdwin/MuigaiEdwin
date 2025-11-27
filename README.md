@@ -39,22 +39,10 @@ philosophy: "If it's not automated, it's not done right"
 
 ## 📊 GitHub Wrapped
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&theme=vue-dark&hide_border=true&show_icons=true&icon_color=FF9900&title_color=FF9900" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuigaiEdwin&theme=vue-dark&hide_border=true&layout=compact&langs_count=8" 
-    alt="Top Languages" 
-    height="180"
-  />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&show_icons=true&theme=vue-dark&hide_border=true&icon_color=FF9900&title_color=FF9900" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuigaiEdwin&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height="150" alt="languages graph" />
 </div>
-
 
 
 ---
