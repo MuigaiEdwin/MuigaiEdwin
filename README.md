@@ -35,9 +35,10 @@ philosophy: "If it's not automated, it's not done right"
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![HTML](https://skillicons.dev/icons?i=html)
 ![Css](https://skillicons.dev/icons?i=css)
 ![Javascript](https://skillicons.dev/icons?i=javascript)
- ![HTML](https://skillicons.dev/icons?i=html)
+
  
 
 
