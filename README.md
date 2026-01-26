@@ -1,4 +1,4 @@
-# 
+# Automating systems that scale
 
 <div align="center">
 
