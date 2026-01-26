@@ -1,11 +1,5 @@
 # Automating systems that scale
 
-<div align="left">
-
-**Cloud Engineer | AWS re/Start Scholar**  
-📍 Murang'a, Kenya | 🎯 Building toward AWS Solutions Architect
-
-</div>
 
 ---
 
