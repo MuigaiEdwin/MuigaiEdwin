@@ -1,8 +1,6 @@
 # Automating systems that scale
 
 
----
-
 I design cloud infrastructure and automate deployments. I work with AWS, Python, and Terraform to build systems that scale efficiently and run reliably.
 
 Currently sharpening my skills through the AWS re/Start program, turning cloud concepts into production-ready solutions.
