@@ -40,7 +40,7 @@ Currently sharpening my skills through the AWS re/Start program, turning cloud c
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&show_icons=true&theme=vue-dark&hide_border=true&icon_color=FF9900&title_color=FF9900" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuigaiEdwin&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </div>
