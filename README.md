@@ -28,8 +28,6 @@ Currently sharpening my skills through the AWS re/Start program, turning cloud c
 ![Django](https://skillicons.dev/icons?i=django)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
----
-
 
 ## 💬 Get in Touch
 
