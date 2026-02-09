@@ -28,12 +28,5 @@ Currently sharpening my skills through the AWS re/Start program, turning cloud c
 ![Django](https://skillicons.dev/icons?i=django)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-
 ## 💬 Get in Touch
 
-<div align="left">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muigaiedd@gmail.com)
-
-
-</div>
