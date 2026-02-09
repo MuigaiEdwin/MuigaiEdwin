@@ -31,8 +31,6 @@ Currently sharpening my skills through the AWS re/Start program, turning cloud c
 ---
 
 
----
-
 ## 💬 Get in Touch
 
 <div align="left">
