@@ -1,7 +1,7 @@
 # This repo runs on automation, AWS, and controlled chaos
 
 
-I’m Ed Muigai, a DevOps and cloud enthusiast who designs infrastructure on AWS and automates deployments with Terraform and Python.
+I’m  Muigai Edwin, a DevOps and cloud enthusiast who designs infrastructure on AWS and automates deployments with Terraform and Python.
 
 I enjoy building systems that scale efficiently and making sure they stay up when it matters.
 
