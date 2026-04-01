@@ -27,7 +27,9 @@ I enjoy building systems that scale efficiently and making sure they stay up whe
 ![Git](https://skillicons.dev/icons?i=git)
 ![Django](https://skillicons.dev/icons?i=django)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
-
+![Html](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Javascript](https://skillicons.dev/icons?i=javascript)
 ---
 
 ## 💬 Get in Touch
