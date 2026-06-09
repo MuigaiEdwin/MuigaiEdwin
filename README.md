@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=Muigai%20Edwin&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0d1117,1a1a2e,14141f)
+![header](https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=Muigai%20Edwin&fontSize=40&fontColor=c9d1d9&animation=fadeIn&color=0d1117,1a1a2e)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=1a91ff&center=true&vCenter=true&width=700&lines=Container+Management+%F0%9F%90%B3;SRE+%7C+DevOps+%7C+Cloud+Engineering;AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+OpenShift+%E2%86%92+GCP;Building+in+public+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=56d364&center=true&vCenter=true&width=700&lines=Container+Management+%F0%9F%90%B3;SRE+%7C+DevOps+%7C+Cloud+Engineering;AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+OpenShift+%E2%86%92+GCP;Building+in+public+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,15 +48,3 @@
 | Kubernetes- | orchestration | 🔜 Deploying soon |
 
 ---
-
-## 📡 Career Trajectory
-
-`AWS` ✅ → `Docker` ✅ → `Kubernetes` ✅ → `OpenShift` ✅ → `GCP` ⚡ → `...`
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-</div>
