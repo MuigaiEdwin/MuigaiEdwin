@@ -1,37 +1,62 @@
-# This repo runs on automation, AWS, and controlled chaos
+![header](https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=Muigai%20Edwin&fontSize=40&fontColor=ffffff&animation=fadeIn&color=0d1117,1a1a2e,14141f)
 
+<div align="center">
 
-I’m  Muigai Edwin, a DevOps and cloud enthusiast who designs infrastructure on AWS and automates deployments with Terraform and Python.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=1a91ff&center=true&vCenter=true&width=700&lines=Container+Management+%F0%9F%90%B3;SRE+%7C+DevOps+%7C+Cloud+Engineering;AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+OpenShift+%E2%86%92+GCP;Building+in+public+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
-I enjoy building systems that scale efficiently and making sure they stay up when it matters.
-
----
-
-## How I Work
-
-- I architect cloud solutions with AWS services—compute, storage, networking, and security
-- I write Python scripts and Terraform configs to automate infrastructure
-- I containerize applications with Docker and manage deployments through CI/CD pipelines
-- I believe in infrastructure as code: if it's manual, it's not repeatable
+</div>
 
 ---
 
-## 🛠️ Tools & Platforms
+```bash
+❯ whoami
+  muigai-edwin — cloud engineer, container wrangler, building in public
 
-**Cloud & Infrastructure**
+❯ cat philosophy.txt
+  "If it runs once manually, it can run a thousand times automatically."
 
-![Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,openshift,docker,terraform,linux,bash,git)
+❯ kubectl get expertise --all-namespaces
+  NAMESPACE      NAME              STATUS
+  containers     docker/podman     Running
+  orchestration  kubernetes        Running
+  enterprise     openshift         Running
+  cloud          aws/gcp           Running
+  iac            terraform         Running
+
+❯ echo $CURRENT_MISSION
+  deep in GCP → Kubernetes mastery → keep shipping
+```
+
+---
+
+## ⚙️ Stack
+
+![Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,linux,bash,git)
 
 **Familiar with**
 
 ![Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript)
+
 ---
 
-## 💬 Get in Touch
+## 🗂 Building in Public
 
-<div align="left">
+| Service | Namespace | Status |
+|---------|-----------|--------|
+| [Docker-](https://github.com/MuigaiEdwin/Docker-) | containers | ✅ Running |
+| [GCP-Labs](https://github.com/MuigaiEdwin/GCP-Labs) | cloud | 🔵 Active |
+| Kubernetes- | orchestration | 🔜 Deploying soon |
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muigaiedd@gmail.com)
+---
 
+## 📡 Career Trajectory
+
+`AWS` ✅ → `Docker` ✅ → `Kubernetes` ✅ → `OpenShift` ✅ → `GCP` ⚡ → `...`
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuigaiEdwin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
