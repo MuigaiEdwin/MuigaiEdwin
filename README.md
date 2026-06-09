@@ -16,20 +16,15 @@ I enjoy building systems that scale efficiently and making sure they stay up whe
 
 ---
 
-## 🛠️ Tools I Use
+## 🛠️ Tools & Platforms
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![Python](https://skillicons.dev/icons?i=py)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Git](https://skillicons.dev/icons?i=git)
-![Django](https://skillicons.dev/icons?i=django)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Html](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Javascript](https://skillicons.dev/icons?i=javascript)
+**Cloud & Infrastructure**
+
+![Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,openshift,docker,terraform,linux,bash,git)
+
+**Familiar with**
+
+![Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript)
 ---
 
 ## 💬 Get in Touch
