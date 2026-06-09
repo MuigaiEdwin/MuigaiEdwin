@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=140&section=header&text=Muigai%20Edwin&fontSize=40&fontColor=c9d1d9&animation=fadeIn&color=0d1117,1a1a2e)
-
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=99999999&color=56d364&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=75&lines=muigai%40container-mgmt+~;Cloud+Engineer+%7C+SRE+%7C+DevOps;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1200&color=56d364&center=true&vCenter=true&width=700&lines=Container+Management+%F0%9F%90%B3;SRE+%7C+DevOps+%7C+Cloud+Engineering;AWS+%E2%86%92+Docker+%E2%86%92+Kubernetes+%E2%86%92+OpenShift+%E2%86%92+GCP;Building+in+public+%F0%9F%87%B0%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
@@ -47,4 +46,11 @@
 | [GCP-Labs](https://github.com/MuigaiEdwin/GCP-Labs) | cloud | 🔵 Active |
 | Kubernetes- | orchestration | 🔜 Deploying soon |
 
----
+## 💬 Get in Touch
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muigaiedd@gmail.com)
+
+
+</div>
