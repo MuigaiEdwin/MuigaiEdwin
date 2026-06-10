@@ -43,7 +43,7 @@
 | Service | Namespace | Status |
 |---------|-----------|--------|
 | [Docker-](https://github.com/MuigaiEdwin/Docker-) | containers | ✅ Running |
-| [GCP-Labs](https://github.com/MuigaiEdwin/GCP-Labs) | cloud | 🔵 Active |
+| [GCP-Labs](https://github.com/MuigaiEdwin/Google-Cloud-Labs) | cloud | 🔵 Active |
 | Kubernetes- | orchestration | 🔜 Deploying soon |
 
 ## 💬 Get in Touch
