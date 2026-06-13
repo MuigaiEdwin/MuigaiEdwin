@@ -30,11 +30,11 @@
 
 ## ⚙️ Stack
 
-![Skills](https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,linux,bash,git)
+![Skills](https://skillicons.dev/icons?i=aws,gcp,redhat,openshift,kubernetes,docker,terraform,linux,bash,git)
 
 **Familiar with**
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,html,css,javascript)
+![Skills](https://skillicons.dev/icons?i=ansible,grafana,jenkins,python,mysql,html,css,javascript)
 
 ---
 
